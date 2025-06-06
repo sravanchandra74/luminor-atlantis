@@ -109,6 +109,10 @@ You'll then see a menu with these options:
 
 - All infra changes are versioned, auditable, and require no console clicking
 
+![image](https://github.com/user-attachments/assets/2ed87862-adee-46f1-a575-e25403c981f3)
+
+![image](https://github.com/user-attachments/assets/a860452e-3f7f-4d09-8d38-3379dbbb8c4e)
+
 ## Troubleshooting
 - Atlantis not working?
 
